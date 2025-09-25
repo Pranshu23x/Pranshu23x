@@ -37,13 +37,10 @@ Open for Collabs!
   <!-- Normal Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Pranshu23x&show_icons=true&theme=radical&hide_border=true" height="170" />
   
-  <!-- Top Languages -->
+  <!-- Top Languages (C replaced with GitHub logo manually in SVG if needed) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu23x&layout=compact&theme=radical&hide_border=true&hide=TypeScript&langs_count=8" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="50" />
-</p>
 
 
 
