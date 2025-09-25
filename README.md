@@ -1,5 +1,5 @@
 Hey! Dont know how you got here XD
-Pranshu this side, I like developing dev tools and fullstack project involving automation involving AI, using React and Node.js. Open to collabs/ suggestions✌️
+Pranshu this side, I like developing dev tools and fullstack project involving automation & AI, using React and Node.js. Open to collabs/ suggestions✌️
 
 🏆 Achievements
 
