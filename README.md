@@ -1,15 +1,27 @@
-Hey! Dont know how you got here XD
-Pranshu this side, I like developing dev tools and fullstack project involving automation & AI, using React and Node.js. Open to collabs/ suggestions✌️
+# 👋 Hey, I’m Pranshu  
 
-🏆 Achievements
+Welcome to my corner of the internet 😎 — I build **developer tools** and **full-stack products** that automate workflows using **AI, React, and Node.js**. Always down to collaborate or brainstorm new ideas ✌️  
 
-Selected for HackHarvard 2025 🎓
+---
 
-Built projects ranging from AI Telegram bots to automated trading systems
+## 🏆 Achievements  
+- Selected for **HackHarvard 2025** 🎓  
+- Built projects ranging from **AI Telegram bots** to **automated trading systems**  
+- Currently building **RippleCode**, an AI platform that instantly understands your repo — skip the clone, jump to creation.  
 
-Open for Collabs!
+---
 
-### ⚡ Tech Stack
+## ⚙️ Tech Stack  
+**Languages:** JavaScript, TypeScript, C++, Java  
+**Frameworks & Tools:** React, Node.js, Express, Tailwind, Supabase  
+**Focus Areas:** AI automation • Dev productivity • Scalable full-stack systems  
+
+---
+
+## 🤝 Let’s Build  
+I love connecting with other builders working on automation, AI agents, or developer infrastructure.  
+Drop a ⭐ if you find something cool — or reach out for a collab!
+
 <p align="left">
   <!-- JavaScript -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge" />
