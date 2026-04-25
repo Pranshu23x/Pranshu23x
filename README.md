@@ -1,70 +1,76 @@
-# 👋 Hey, I’m Pranshu  
+<div align="center">
 
-Welcome to my corner of the internet 😎 — I build **developer tools** and **full-stack products** that automate workflows using **AI, React, and Node.js**. Always down to collaborate or brainstorm new ideas ✌️  
+```
+██████╗ ██████╗  █████╗ ███╗   ██╗███████╗██╗  ██╗██╗   ██╗
+██╔══██╗██╔══██╗██╔══██╗████╗  ██║██╔════╝██║  ██║██║   ██║
+██████╔╝██████╔╝███████║██╔██╗ ██║███████╗███████║██║   ██║
+██╔═══╝ ██╔══██╗██╔══██║██║╚██╗██║╚════██║██╔══██║██║   ██║
+██║     ██║  ██║██║  ██║██║ ╚████║███████║██║  ██║╚██████╔╝
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
+```
+
+### Fullstack & Agentic AI Dev · KIIT CSE '28
+
+*Building AI tools that people actually use in production — not side projects that die on GitHub.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pranshukumar23/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=flat-square)](https://pranshukumar-portfolio.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/pranshu23x/)
+
+</div>
 
 ---
 
-## 🏆 Achievements  
-- Selected for **HackHarvard 2025** 🎓  
-- Built projects ranging from **AI Telegram bots** to **automated trading systems**  
-- Currently building **RippleCode**, an AI platform that instantly understands your repo — skip the clone, jump to creation.  
+## What I've Shipped
+
+| Project | What it does | Scale |
+|--------|-------------|-------|
+| [**Voyage**](https://lnkd.in/gPJisKwh) | Multi-agent AI suite scanning LinkedIn, Indeed & Naukri · parses resume · ranks + generates tailored resumes | 100+ active users |
+| [**RippleCode**](https://ripplecode.site) | Converts entire GitHub repos into LLM-readable XML context · chat with any codebase | 250+ developers |
+| [**AskTabs**](https://lnkd.in/gDT_fzau) | Privacy-first Chrome extension · search & summarize across 200+ open tabs · $0.008/search | HackHarvard 2025 |
+| **Reflex** | Multi-agent swarm for high-stakes decision making · ReACT debate loop · live market signals via Crustdata API | ContextCon Winner |
 
 ---
 
-## ⚙️ Tech Stack  
-**Languages:** JavaScript, TypeScript, C++, Java  
-**Frameworks & Tools:** React, Node.js, Express, Tailwind, Supabase  
-**Focus Areas:** AI automation • Dev productivity • Scalable full-stack systems  
+## Selected For
+
+```
+HackHarvard 2025         →  Global student hackathon, selective admissions
+Y Combinator SUS '26     →  YC Startup School India, competitive pan-India pool
+ContextCon by Crustdata  →  YC F24 × Y Combinator, invitation-only hackathon
+3× Hackathon Winner      →  Including 1st place at Brandfolio
+```
 
 ---
 
-## 🤝 Let’s Build  
-I love connecting with other builders working on automation, AI agents, or developer infrastructure.  
-Drop a ⭐ if you find something cool — or reach out for a collab!
+## Stack
 
-<p align="left">
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000000&style=for-the-badge" />
-  
-  <!-- React -->
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=20232A&style=for-the-badge" />
-  
-  <!-- Node.js -->
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=ffffff&style=for-the-badge" />
-  
-  <!-- MongoDB -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=ffffff&style=for-the-badge" />
-  
-  <!-- C++ -->
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=ffffff&style=for-the-badge" />
-  
-  <!-- Java -->
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=ffffff&style=for-the-badge" />
+**Agentic / AI**
+`LangChain` `LangGraph` `CrewAI` `FastAPI` `Vector Databases`
 
-  <!-- Tailwind CSS -->
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=ffffff&style=for-the-badge" />
-</p>
-## 📊 GitHub Stats
-<p align="center">
-  <!-- Normal Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranshu23x&show_icons=true&theme=radical&hide_border=true" height="170" />
-  
-  <!-- Top Languages (C replaced with GitHub logo manually in SVG if needed) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu23x&layout=compact&theme=radical&hide_border=true&hide=TypeScript&langs_count=8" height="170" />
-</p>
+**Full-Stack**
+`React` `Next.js` `Node.js` `Express` `PostgreSQL` `MongoDB` `Supabase`
 
+**Infrastructure**
+`AWS` `Clerk` `GitHub API` `Docker`
 
+**Languages**
+`JavaScript` `TypeScript` `Python` `C++` `Java`
 
+---
 
-### 🔗 Connect with Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/pranshukumar23/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square" />
-  </a>
-  <a href="https://www.instagram.com/pranshu23x/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square" />
-  </a>
-  <a href="https://github.com/pranshu-x">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" />
-  </a>
-</p>
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranshu23x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu23x&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</div>
+
+---
+
+<div align="center">
+
+*Open to internships, collabs, and interesting problems.*
+**Let's build something worth talking about.**
+
+</div>
