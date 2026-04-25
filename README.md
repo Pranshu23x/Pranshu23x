@@ -72,6 +72,8 @@ ContextCon by Crustdata  →  YC F24 × Y Combinator, invitation-only hackathon
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000&style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub_API-181717?logo=github&logoColor=white&style=for-the-badge" />
 </p>
 
@@ -87,14 +89,6 @@ ContextCon by Crustdata  →  YC F24 × Y Combinator, invitation-only hackathon
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranshu23x&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranshu23x&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</div>
-
----
 
 <div align="center">
 
