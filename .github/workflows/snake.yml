@@ -17,8 +17,8 @@ jobs:
         with:
           github_user_name: Pranshu23x
           outputs: |
-            dist/github-snake.svg?color_snake=#00FF00&color_dots=#1a1a2e,#00b300,#00cc00,#00e600,#00FF00
-            dist/github-snake-dark.svg?color_snake=#00FF00&color_dots=#1a1a2e,#00b300,#00cc00,#00e600,#00FF00
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push output
         uses: peaceiris/actions-gh-pages@v3
