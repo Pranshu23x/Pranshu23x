@@ -46,16 +46,36 @@ ContextCon by Crustdata  →  YC F24 × Y Combinator, invitation-only hackathon
 ## Stack
 
 **Agentic / AI**
-`LangChain` `LangGraph` `CrewAI` `FastAPI` `Vector Databases`
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/CrewAI-000000?logo=crewai&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=white&style=for-the-badge" />
 
 **Full-Stack**
-`React` `Next.js` `Node.js` `Express` `PostgreSQL` `MongoDB` `Supabase`
+
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
 
 **Infrastructure**
-`AWS` `Clerk` `GitHub API` `Docker`
+
+<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub_API-181717?logo=github&logoColor=white&style=for-the-badge" />
 
 **Languages**
-`JavaScript` `TypeScript` `Python` `C++` `Java`
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
 
 ---
 
