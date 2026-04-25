@@ -28,7 +28,7 @@
 | [**Voyage**](https://lnkd.in/gPJisKwh) | Multi-agent AI suite scanning LinkedIn, Indeed & Naukri · parses resume · ranks + generates tailored resumes | 100+ active users |
 | [**RippleCode**](https://ripplecode.site) | Converts entire GitHub repos into LLM-readable XML context · chat with any codebase | 250+ developers |
 | [**AskTabs**](https://lnkd.in/gDT_fzau) | Privacy-first Chrome extension · search & summarize across 200+ open tabs · $0.008/search | HackHarvard 2025 |
-| **Reflex** | Multi-agent swarm for high-stakes decision making · ReACT debate loop · live market signals via Crustdata API | ContextCon Winner |
+| **Reflex** | Multi-agent swarm for high-stakes decision making · ReACT debate loop · live market signals via Crustdata API | ContextCon |
 
 ---
 
