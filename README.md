@@ -9,9 +9,9 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
 ```
 
-### Fullstack & Agentic AI Dev · KIIT CSE '28
+### Fullstack & Agentic AI Developer (trying to be) · KIIT CSE '28
 
-*Building AI tools that people actually use in production — not side projects that die on GitHub.*
+*Built AI tools that people actually use in production not crappy side projects which die on GitHub. (although I have some which died-THOSE WERE EXPRIMENTAL XD*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pranshukumar23/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=flat-square)](https://pranshukumar-portfolio.vercel.app)
