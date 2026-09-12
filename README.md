@@ -103,7 +103,7 @@ ContextCon by Crustdata  →  YC F24 × Y Combinator, invitation-only hackathon
 
 <div align="center">
 
-*Open to internships, collabs, and interesting problems.*
+*Readme isnt updated for a while , please drop stale buzzing*
 **Let's build something worth talking about.**
 
 </div>
