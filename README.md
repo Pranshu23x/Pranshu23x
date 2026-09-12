@@ -30,7 +30,7 @@
 | [**AskTabs**](https://lnkd.in/gDT_fzau) | Privacy-first Chrome extension · search & summarize across 200+ open tabs · $0.008/search | HackHarvard 2025 |
 | **Reflex** | Multi-agent swarm for high-stakes decision making · ReACT debate loop · live market signals via Crustdata API | ContextCon Winner |
 
-Currently on a product, called Mutter which translate your native tone mixed with any language to professional, casual or Work english
+Currently working on a product, called Mutter which translate your native tone mixed with any language to professional, casual or Work english
 ---
 
 ## Selected For
