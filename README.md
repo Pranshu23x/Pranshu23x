@@ -9,9 +9,9 @@
 ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝
 ```
 
-### Fullstack & Agentic AI Developer (trying to be) · KIIT CSE '28
+### Fullstack and agentic AI · KIIT CSE '28
 
-*Built AI tools that people actually use in production not crappy side projects which die on GitHub. (although I have some which died-THOSE WERE EXPRIMENTAL XD*
+I build AI tools that people actually use. Some of them died on GitHub. Those were the experiments.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pranshukumar23/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=flat-square)](https://pranshukumar-portfolio.vercel.app)
@@ -21,77 +21,88 @@
 
 ---
 
-## What I've Shipped
+## Projects
 
-| Project | What it does | Scale |
-|--------|-------------|-------|
-| [**Voyage**](https://lnkd.in/gPJisKwh) | Multi-agent AI suite scanning LinkedIn, Indeed & Naukri · parses resume · ranks + generates tailored resumes | 100+ active users |
-| [**RippleCode**](https://ripplecode.site) | Converts entire GitHub repos into LLM-readable XML context · chat with any codebase | 250+ developers |
-| [**AskTabs**](https://lnkd.in/gDT_fzau) | Privacy-first Chrome extension · search & summarize across 200+ open tabs · $0.008/search | HackHarvard 2025 |
-| **Reflex** | Multi-agent swarm for high-stakes decision making · ReACT debate loop · live market signals via Crustdata API | ContextCon Winner |
+### [Relay](https://try-relay.vercel.app/) · `npx getrelay@latest`
+**100,000+ npm downloads**
 
-Currently working on a product, called Mutter which translate your native tone mixed with any language to professional, casual or Work english
+A CLI that pulls from 55+ production-grade design templates and writes a `relay.md` blueprint. Point an AI coding assistant at that file and it scaffolds the whole site at 60 to 70% visual and structural accuracy. Days of work, minutes of waiting.
+
+[Live](https://try-relay.vercel.app/) · [npm](https://www.npmjs.com/package/getrelay)
+
 ---
 
-## Selected For
+### [Voyage](https://try-voyage.vercel.app/)
+**1000+ users across IITs, NITs and KIIT · $0.0001 per search**
+
+Multi-agent job search built on CrewAI. Agents parse your resume, rank roles semantically across LinkedIn, Indeed and Naukri, and generate tailored LaTeX resumes that open straight in Overleaf. Job hunting goes from hours to under five minutes.
+
+[Live](https://try-voyage.vercel.app/)
+
+---
+
+### [AskTabs](https://chromewebstore.google.com/search/AskTabs)
+**Live on the Chrome Web Store · HackHarvard 2025 · Gemini Hackathon winner**
+
+Chrome extension that searches and answers questions across 200+ open tabs in real time. Runs entirely client-side, nothing stored on a server. Compressing tab content through Chrome's native Summarizer API before any LLM call brings it down to $0.008 per search across 50 tabs.
+
+[Chrome Web Store](https://chromewebstore.google.com/search/AskTabs)
+
+---
+
+### [RippleCode](https://ripplecode.site)
+**250+ developers**
+
+Turns an entire GitHub repo into LLM-readable XML context so you can chat with any codebase instead of paging through it.
+
+[Live](https://ripplecode.site)
+
+---
+
+### Reflex
+**Built at ContextCon (Crustdata × YC)**
+
+Multi-agent swarm for high-stakes decisions. A ReACT debate loop runs over live market signals from the Crustdata API, with agents arguing positions before anything gets recommended.
+
+---
+
+## What I'm working on
+
+**Tokenops** is a security gateway that sits inline between coding agents like Claude Code and the LLM providers behind them. It screens prompt injection, catches leaked credentials, and blocks exfiltration through the agent's own outbound tool calls, all at 130ms p50 on 4 vCPU with no GPU. I'm the only engineer on it, at Acttrident.
+
+The most useful thing it taught me: a guard can pass its whole test suite and still be completely broken. Ours scored ordinary Hindi, Arabic, Bengali and Tamil text at 0.93 to 0.99, the same range as real attacks. It had been blocking every user writing in those languages while its metrics looked perfectly clean. Nothing in the suite would ever have caught it, because the suite was in English.
+
+**Mutter** is the side project. It takes how you actually talk, native tone and code-switching included, and turns it into professional, casual or work English. Early days.
+
+---
+
+## Selected for
 
 ```
-HackHarvard 2025         →  Global student hackathon, selective admissions
-Y Combinator SUS '26     →  YC Startup School India, competitive pan-India pool
-ContextCon by Crustdata  →  YC F24 × Y Combinator, invitation-only hackathon
-3× Hackathon Winner      →  Including 1st place at Brandfolio
+HackHarvard 2025                 Global student hackathon
+Y Combinator Startup School      India cohort, 2026
+ContextCon (Crustdata × YC)      Invite-only, top 100 builders in India
+Gemini Hackathon                 Winner
+Brandfolio Hackathon             1st place
 ```
 
 ---
 
 ## Stack
 
-**Agentic / AI**
+**Languages** · TypeScript, JavaScript, Python, C++
 
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CrewAI-000000?logo=crewai&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pinecone-000000?logo=pinecone&logoColor=white&style=for-the-badge" />
-</p>
+**AI and agents** · LangChain, LangGraph, CrewAI, Anthropic and OpenAI APIs, MCP, FAISS
 
-**Full-Stack**
+**Backend** · Node.js, Express, FastAPI, SSE streaming, PostgreSQL, MongoDB, Redis, Supabase
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
-</p>
+**Frontend** · React, Next.js, Tailwind
 
-**Infrastructure**
-
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub_API-181717?logo=github&logoColor=white&style=for-the-badge" />
-</p>
-
-**Languages**
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" />
-</p>
+**Infra** · AWS, Docker
 
 ---
 
-
-## Contribution Graph
+## Contribution graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranshu23x/Pranshu23x/output/github-snake-dark.svg" />
@@ -103,7 +114,6 @@ ContextCon by Crustdata  →  YC F24 × Y Combinator, invitation-only hackathon
 
 <div align="center">
 
-*Readme isnt updated for a while , please drop stale buzzing*
 **Let's build something worth talking about.**
 
 </div>
