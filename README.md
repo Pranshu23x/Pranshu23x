@@ -19,10 +19,24 @@ I build AI tools that people actually use. Some of them died on GitHub. Those we
 
 <br>
 
-![Status](https://img.shields.io/badge/currently-building_Tokenops_@_Acttrident-7C3AED?style=flat-square)
-![npm](https://img.shields.io/npm/dt/getrelay?label=relay%20downloads&color=CB3837&style=flat-square)
+![HackHarvard](https://img.shields.io/badge/HackHarvard_2025-A51C30?style=flat-square)
+![YC](https://img.shields.io/badge/Y_Combinator_Startup_School-F26625?style=flat-square)
+![ContextCon](https://img.shields.io/badge/ContextCon_·_top_100_in_India-0F172A?style=flat-square)
+![Winner](https://img.shields.io/badge/3×_hackathon_winner-16A34A?style=flat-square)
 
 </div>
+
+---
+
+## Selected for
+
+```
+HackHarvard 2025                 Global student hackathon
+Y Combinator Startup School      India cohort, 2026
+ContextCon (Crustdata × YC)      Invite-only, top 100 builders in India
+Gemini Hackathon                 Winner
+Brandfolio Hackathon             1st place
+```
 
 ---
 
@@ -50,23 +64,11 @@ The interesting part isn't the transcription, it's that translation and tone are
 
 | Project | What it does | Scale |
 |---|---|---|
-| [**Relay**](https://try-relay.vercel.app/)<br><sub>[npm](https://www.npmjs.com/package/getrelay) · `npx getrelay@latest`</sub> | CLI that pulls from 55+ production-grade design templates and writes a `relay.md` blueprint · an AI assistant scaffolds the whole site from it at 60–70% accuracy | **100,000+** npm downloads |
+| [**Relay**](https://try-relay.vercel.app/)<br><sub>[npm](https://www.npmjs.com/package/getrelay) · `npx getrelay@latest`</sub> | CLI that pulls from 55+ production-grade design templates and writes a `relay.md` blueprint · an AI assistant scaffolds the whole site from it at 60–70% accuracy | ![downloads](https://img.shields.io/badge/100k+-npm_downloads-CB3837?style=flat-square) |
 | [**Voyage**](https://try-voyage.vercel.app/) | Multi-agent job search on CrewAI · parses your resume, ranks roles across LinkedIn, Indeed and Naukri, generates tailored LaTeX resumes that open in Overleaf | **1000+ users** across IITs, NITs, KIIT · $0.0001/search |
 | [**AskTabs**](https://chromewebstore.google.com/search/AskTabs) | Privacy-first Chrome extension · searches and answers across 200+ open tabs, fully client-side with nothing stored on a server | Chrome Web Store · $0.008/search · HackHarvard 2025 |
 | [**RippleCode**](https://ripplecode.site) | Turns an entire GitHub repo into LLM-readable XML context so you can chat with any codebase | **250+** developers |
 | **Reflex** | Multi-agent swarm for high-stakes decisions · ReACT debate loop over live market signals via the Crustdata API | Built at ContextCon |
-
----
-
-## Selected for
-
-```
-HackHarvard 2025                 Global student hackathon
-Y Combinator Startup School      India cohort, 2026
-ContextCon (Crustdata × YC)      Invite-only, top 100 builders in India
-Gemini Hackathon                 Winner
-Brandfolio Hackathon             1st place
-```
 
 ---
 
