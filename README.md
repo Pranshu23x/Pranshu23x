@@ -13,78 +13,48 @@
 
 I build AI tools that people actually use. Some of them died on GitHub. Those were the experiments.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/pranshukumar23/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=flat-square)](https://pranshukumar-portfolio.vercel.app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/pranshu23x/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/pranshukumar23/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://pranshukumar-portfolio.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/pranshu23x/)
+
+<br>
+
+![Status](https://img.shields.io/badge/currently-building_Tokenops_@_Acttrident-7C3AED?style=flat-square)
+![npm](https://img.shields.io/npm/dt/getrelay?label=relay%20downloads&color=CB3837&style=flat-square)
 
 </div>
 
 ---
 
-## Projects
+## Building now
 
 ### Tokenops
-`in production` · `sole engineer` · Acttrident
+![status](https://img.shields.io/badge/in_production-16A34A?style=flat-square) ![role](https://img.shields.io/badge/sole_engineer-0F172A?style=flat-square) ![p50](https://img.shields.io/badge/130ms_p50_·_4_vCPU_·_no_GPU-334155?style=flat-square)
 
-A security gateway that sits inline between coding agents like Claude Code and the LLM providers behind them. It screens prompt injection, catches leaked credentials, and blocks exfiltration through the agent's own outbound tool calls, all at **130ms p50 on 4 vCPU with no GPU**.
+A security gateway that sits inline between coding agents like Claude Code and the LLM providers behind them. It screens prompt injection, catches leaked credentials, and blocks exfiltration through the agent's own outbound tool calls.
 
 The most useful thing it has taught me: a guard can pass its entire test suite and still be completely broken. Ours scored ordinary Hindi, Arabic, Bengali and Tamil text at 0.93 to 0.99, the same range as real attacks. It had been blocking every user writing in those languages while its metrics looked perfectly clean. Nothing in the suite would ever have caught it, because the suite was in English. Script-based routing took benign traffic served from 5/9 to 7/9 languages with all 9 attacks still caught.
 
 Also in there: byte-exact SSE parsing for the Anthropic Messages API, 221 Gitleaks credential rules ported to TypeScript at 0.020ms p50, and a red-team harness built on a deliberately compromised MCP server.
 
----
-
 ### Mutter
-`in development`
+![status](https://img.shields.io/badge/in_development-D97706?style=flat-square)
 
 Speak in whatever language you actually think in, code-switching and all, and get back clean English in the register you need. Professional, casual, work. Say it in Hindi mid-sentence and it still comes out as something you can send.
 
 The interesting part isn't the transcription, it's that translation and tone are usually two lossy steps stacked on each other. Your voice gets flattened twice. Mutter is an attempt to do it in one pass and keep what you actually meant.
 
-Not shipped yet. Building it now.
-
 ---
 
-### [Relay](https://try-relay.vercel.app/)
-`shipped` · **100,000+ npm downloads**
+## Shipped
 
-A CLI (`npx getrelay@latest`) that pulls from 55+ production-grade design templates and writes a `relay.md` blueprint. Point an AI coding assistant at that file and it scaffolds the whole site at 60 to 70% visual and structural accuracy. Days of work, minutes of waiting.
-
-[Live](https://try-relay.vercel.app/) · [npm](https://www.npmjs.com/package/getrelay)
-
----
-
-### [Voyage](https://try-voyage.vercel.app/)
-`shipped` · **1000+ users across IITs, NITs and KIIT** · $0.0001 per search
-
-Multi-agent job search built on CrewAI. Agents parse your resume, rank roles semantically across LinkedIn, Indeed and Naukri, and generate tailored LaTeX resumes that open straight in Overleaf. Job hunting goes from hours to under five minutes.
-
-[Live](https://try-voyage.vercel.app/)
-
----
-
-### [AskTabs](https://chromewebstore.google.com/search/AskTabs)
-`shipped` · Chrome Web Store · HackHarvard 2025 · Gemini Hackathon winner
-
-Chrome extension that searches and answers questions across 200+ open tabs in real time. Runs entirely client-side, nothing stored on a server. Compressing tab content through Chrome's native Summarizer API before any LLM call brings it down to $0.008 per search across 50 tabs.
-
-[Chrome Web Store](https://chromewebstore.google.com/search/AskTabs)
-
----
-
-### [RippleCode](https://ripplecode.site)
-`shipped` · **250+ developers**
-
-Turns an entire GitHub repo into LLM-readable XML context so you can chat with any codebase instead of paging through it.
-
-[Live](https://ripplecode.site)
-
----
-
-### Reflex
-`built at ContextCon (Crustdata × YC)`
-
-Multi-agent swarm for high-stakes decisions. A ReACT debate loop runs over live market signals from the Crustdata API, with agents arguing positions before anything gets recommended.
+| Project | What it does | Scale |
+|---|---|---|
+| [**Relay**](https://try-relay.vercel.app/)<br><sub>[npm](https://www.npmjs.com/package/getrelay) · `npx getrelay@latest`</sub> | CLI that pulls from 55+ production-grade design templates and writes a `relay.md` blueprint · an AI assistant scaffolds the whole site from it at 60–70% accuracy | **100,000+** npm downloads |
+| [**Voyage**](https://try-voyage.vercel.app/) | Multi-agent job search on CrewAI · parses your resume, ranks roles across LinkedIn, Indeed and Naukri, generates tailored LaTeX resumes that open in Overleaf | **1000+ users** across IITs, NITs, KIIT · $0.0001/search |
+| [**AskTabs**](https://chromewebstore.google.com/search/AskTabs) | Privacy-first Chrome extension · searches and answers across 200+ open tabs, fully client-side with nothing stored on a server | Chrome Web Store · $0.008/search · HackHarvard 2025 |
+| [**RippleCode**](https://ripplecode.site) | Turns an entire GitHub repo into LLM-readable XML context so you can chat with any codebase | **250+** developers |
+| **Reflex** | Multi-agent swarm for high-stakes decisions · ReACT debate loop over live market signals via the Crustdata API | Built at ContextCon |
 
 ---
 
@@ -102,15 +72,48 @@ Brandfolio Hackathon             1st place
 
 ## Stack
 
-**Languages** · TypeScript, JavaScript, Python, C++
+**Agentic / AI**
 
-**AI and agents** · LangChain, LangGraph, CrewAI, Anthropic and OpenAI APIs, MCP, FAISS
+<p>
+  <img src="https://img.shields.io/badge/Anthropic-D97757?logo=anthropic&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CrewAI-000000?logo=crewai&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-000000?logo=modelcontextprotocol&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?logo=meta&logoColor=white&style=for-the-badge" />
+</p>
 
-**Backend** · Node.js, Express, FastAPI, SSE streaming, PostgreSQL, MongoDB, Redis, Supabase
+**Full-Stack**
 
-**Frontend** · React, Next.js, Tailwind
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
+</p>
 
-**Infra** · AWS, Docker
+**Data & Infra**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+</p>
+
+**Languages**
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" />
+</p>
 
 ---
 
